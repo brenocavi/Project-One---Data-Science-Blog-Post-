@@ -32,6 +32,8 @@ There is in this respository one notebook with the exploratory analyses for the 
 
 The main result is there is a lot of people working in the techology area even with a university degree in some other area.
 
+here you can see the text about the result: https://brenocavi.medium.com/would-the-technology-field-be-friendly-to-outsiders-6a751eabf46e 
+
 5. Licensing, Authors and Acknowledgements.
 
 It was used the 2020 - Stack Overflow Annual Developer Survey. The link for download is https://insights.stackoverflow.com/survey 
