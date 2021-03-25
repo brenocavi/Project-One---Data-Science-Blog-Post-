@@ -26,7 +26,7 @@ To get conclusion if change for a technology area it is good option.
 
 3. File Descripiton 
 
-Stack Overflow conducts an annual survey of several people around the world. This research is available on its own website, for download where there are some files. In this analysis two csv files were used, schema where it shows the questions asked and the result file. The results are displayed in some columns with the answer of each participant for each question that was asked. In my analysis I chose to use the UndergradMajor, MainBranch and Country columns. In order to use these columns properly, it was necessary to clear the data, perform some filters in relation to work, in addition to separating multiple choice responses into single answers.
+Stack Overflow conducts an annual survey of several people around the world. This research is available on its own website, for download where there are some files. In this analysis two csv files were used, schema where it shows the questions asked and the result file. The results are displayed in some columns with the answer of each participant for each question that was asked. In my analysis I chose to use the UndergradMajor, MainBranch and Country columns. In order to use these columns properly, it was necessary to clear the data, perform some filters in relation to work, in addition to separating multiple choice responses into single answers. The analysis it was made in three notebooks each one show the code to respose each question.
 
 
 4. Results
